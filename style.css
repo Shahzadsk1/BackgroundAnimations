@@ -2,14 +2,211 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* width: fit-content;
-  justify-content: center; */
 }
 span {
   display: inline-block;
   width: 100px;
   height: 100px;
-  margin-right: 8px;
-  padding: 10px;
+  margin-top: -10px;
+  margin-right: -10px;
+  padding: -10px;
   border: 1px solid red;
+}
+.red {
+  background-color: red;
+}
+.blue {
+  background-color: blue;
+}
+.yellow {
+  background-color: yellow;
+}
+.green {
+  background-color: green;
+}
+.purple {
+  background-color: purple;
+}
+.cyan {
+  background-color: cyan;
+}
+.pink {
+  background-color: pink;
+}
+.orange {
+  background-color: orange;
+}
+.red1 {
+  background-color: red;
+}
+.blue1 {
+  background-color: blue;
+}
+.yellow1 {
+  background-color: yellow;
+}
+.green1 {
+  background-color: green;
+}
+.purple1 {
+  background-color: purple;
+}
+.cyan1 {
+  background-color: cyan;
+}
+.pink1 {
+  background-color: pink;
+}
+.orange1 {
+  background-color: orange;
+}
+.red2 {
+  background-color: red;
+}
+.blue2 {
+  background-color: blue;
+}
+.yellow2 {
+  background-color: yellow;
+}
+.green2 {
+  background-color: green;
+}
+.purple2 {
+  background-color: purple;
+}
+.cyan2 {
+  background-color: cyan;
+}
+.pink2 {
+  background-color: pink;
+}
+.orange2 {
+  background-color: orange;
+}
+.red3 {
+  background-color: red;
+}
+.blue3 {
+  background-color: blue;
+}
+.yellow3 {
+  background-color: yellow;
+}
+.green3 {
+  background-color: green;
+}
+.purple3 {
+  background-color: purple;
+}
+.cyan3 {
+  background-color: cyan;
+}
+.pink3 {
+  background-color: pink;
+}
+.orange3 {
+  background-color: orange;
+}
+.red4 {
+  background-color: red;
+}
+.blue4 {
+  background-color: blue;
+}
+.yellow4 {
+  background-color: yellow;
+}
+.green4 {
+  background-color: green;
+}
+.purple4 {
+  background-color: purple;
+}
+.cyan4 {
+  background-color: cyan;
+}
+.pink4 {
+  background-color: pink;
+}
+.orange4 {
+  background-color: orange;
+}
+.red5 {
+  background-color: red;
+}
+.blue5 {
+  background-color: blue;
+}
+.yellow5 {
+  background-color: yellow;
+}
+.green5 {
+  background-color: green;
+}
+.purple5 {
+  background-color: purple;
+}
+.cyan5 {
+  background-color: cyan;
+}
+.pink5 {
+  background-color: pink;
+}
+.orange5 {
+  background-color: orange;
+}
+.red6 {
+  background-color: red;
+}
+.blue6 {
+  background-color: blue;
+}
+.yellow6 {
+  background-color: yellow;
+}
+.green6 {
+  background-color: green;
+}
+.purple6 {
+  background-color: purple;
+}
+.cyan6 {
+  background-color: cyan;
+}
+.pink6 {
+  background-color: pink;
+}
+.orange6 {
+  background-color: orange;
+}
+.red7 {
+  background-color: red;
+}
+.blue7 {
+  background-color: blue;
+}
+.yellow7 {
+  background-color: yellow;
+}
+.green7 {
+  background-color: green;
+}
+.purple7 {
+  background-color: purple;
+}
+.cyan7 {
+  background-color: cyan;
+}
+.pink7 {
+  background-color: pink;
+}
+.orange7 {
+  background-color: orange;
+}
+.red8 {
+  background-color: red;
+}
+.blue8 {
+  background-color: blue;
 }
