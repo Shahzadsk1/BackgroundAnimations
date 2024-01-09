@@ -2,7 +2,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  background-color: rgb(40, 0, 54);
 }
+
 span {
   display: inline-block;
   width: 100px;
@@ -10,8 +12,10 @@ span {
   margin-top: -10px;
   margin-right: -10px;
   padding: -10px;
-  border: 1px solid red;
+  transition: ease-out 0.4s;
+  border-radius: 10px;
 }
+
 .red {
   background-color: red;
 }
@@ -209,4 +213,7 @@ span {
 }
 .blue8 {
   background-color: blue;
+}
+#container :hover {
+  transform: rotate(150deg);
 }
